@@ -2,7 +2,7 @@
 BLOCK_PAINTER
 
 ![alt text](https://github.com/KaceyTheGoat/BLOCK_PAINTER/blob/main/BLOCK_PAINTER_LETTERHEAD.png?raw=true)
-
+![alt text](https://github.com/KaceyTheGoat/BLOCK_PAINTER/blob/main/animation.gif?raw=true)
 A WPF Application for creating images by painting blocks.
 
 Purpose:
